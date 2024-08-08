@@ -5,3 +5,4 @@ Basically just a rainmeter skin that almost recreates lobby assistants seen with
 ## Dependencies
 First things first, you need:
 * Rainmeter, a free desktop customization tool in order to run the skins. You can pick it up from their website, or their github page here: https://github.com/rainmeter/rainmeter
+## Installing the Skin(s)
