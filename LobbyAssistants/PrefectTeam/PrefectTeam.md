@@ -1,1 +1,5 @@
-Currently only has Hina (Base) and Chinatsu (Base), might update in the future.
+Base Prefect Team implemented. includes:
+* Hina (Base)
+* Ako (Base)
+* Iori (Base)
+* Chinatsu (Base)
