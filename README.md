@@ -11,10 +11,11 @@ Basically just a rainmeter skin that almost recreates lobby assistants seen with
 * If you already have mouse.dll, then you don't need to install it alongside the skins, I just placed it inside the rmskin packs for convenience.
 * Then finally, hit install, you will see that (if you have other skins installed apart from the lobby assistants), rainmeter will restart, don't worry though, its just rebooting the application.
 ## Activating the Skins
-To check if the skin is installed, open Rainmeter Manager by going down to the taskbar, the hidden icons tab, and pressing on Rainmeter (the icon with the raindrop on it). It will open another window where you can manage your skins, if you see a folder that says "Personal Computer (insert name)" then that's it, installation is done, all you have to do to activate it is open its respective folder, then the ini folder, and then the .ini file that's named as the assistant you chose, for example, Personal Computer Hina has hina.ini. highlight that, and press on load, if the assistant loads into your desktop, then congratulations, you just installed your own PC assistant, if it didn't, press the button that says "Open Log", it should be able to tell you if there are any errors that needs to be fixed.
+To check if the skin is installed, open Rainmeter Manager by going down to the taskbar, the hidden icons tab, and pressing on Rainmeter (the icon with the raindrop on it). It will open another window where you can manage your skins, if you see a folder that says "Personal (insert student name)" then that's it, installation is done, all you have to do to activate it is open its respective folder, then the ini folder, and then the .ini file that's named as the assistant you chose, for example, Personal Computer Hina has hina.ini. highlight that, and press on load, if the assistant loads into your desktop, then congratulations, you just installed your own PC assistant, if it didn't, press the button that says "Open Log", it should be able to tell you if there are any errors that needs to be fixed.
 ## Bug Fixing/Assistance for the (Code Broken) Assistants
 If you are one of those people who are new to rainmeter and don't know how to fix a skin or any coding whatsoever, you can post the issue in the issues tab of this repository, I won't guarantee that I would come by everyday to check on it though.
 ## Version History
 * 0.1
    * Initial Release
    * Added PC Hina (Base) and PC Chinatsu (Base)
+   * Added PC Ako (Base) and PC Iori (Base)
