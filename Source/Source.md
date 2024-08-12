@@ -1,1 +1,1 @@
-A folder that should contain the raw ini files contained in the rmskin files, you can check out the code for yourself and how it changes overtime as I progress through coding, maybe you can give me a few suggestions in improving my code and optimizing it.
+A folder that should contain the raw ini files contained in the rmskin files, you can check out the code for each student yourself and how it changes overtime as I progress through coding, maybe you can give me a few suggestions in improving my code and optimizing it.
