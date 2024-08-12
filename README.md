@@ -15,8 +15,12 @@ To check if the skin is installed, open Rainmeter Manager by going down to the t
 ## Bug Fixing/Assistance for the (Code Broken) Assistants
 If you are one of those people who are new to rainmeter and don't know how to fix a skin or any coding whatsoever, you can post the issue in the issues tab of this repository, I won't guarantee that I would come by everyday to check on it though.
 ### Finished Students
-* Sorasaki Hina (Base)
-* Hinomiya Chinatsu (Base)
-* Amau Ako (Base)
-* Shiromi Iori (Base)
-* Hayase Yuuka (Base)
+* Gehenna
+  * Prefect Team
+    * Sorasaki Hina (Base)
+    * Hinomiya Chinatsu (Base)
+    * Amau Ako (Base)
+    * Shiromi Iori (Base)
+* Millenium
+  * Seminar
+    * Hayase Yuuka (Base)
