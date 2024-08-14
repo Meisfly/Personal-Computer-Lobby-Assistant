@@ -1,4 +1,4 @@
-Base Seminar implemented. includes:
+Base Seminar implemented. Currently includes:
 
     Yuuka (Base)
-    
+    Noa (Base)
