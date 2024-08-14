@@ -24,3 +24,8 @@ If you are one of those people who are new to rainmeter and don't know how to fi
 * Millenium
   * Seminar
     * Hayase Yuuka (Base)
+    * Ushio Noa (Base)
+* Abydos
+  * Foreclosure Task Force/Countermeasures Committee
+    * Sunaookami Shiroko (Base)
+    * Takanashi Hoshino (Base)
