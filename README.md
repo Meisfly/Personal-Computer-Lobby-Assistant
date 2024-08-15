@@ -29,3 +29,6 @@ If you are one of those people who are new to rainmeter and don't know how to fi
   * Foreclosure Task Force/Countermeasures Committee
     * Sunaookami Shiroko (Base)
     * Takanashi Hoshino (Base)
+    * Okusora Ayane (Base)
+    * Kuromi Serika (Base)
+    * Izayoi Nonomi (Base)
