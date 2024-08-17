@@ -32,3 +32,6 @@ If you are one of those people who are new to rainmeter and don't know how to fi
     * Okusora Ayane (Base)
     * Kuromi Serika (Base)
     * Izayoi Nonomi (Base)
+* Trinity
+  * Library Committee
+    * Kozeki Ui (Base)
