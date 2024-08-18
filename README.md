@@ -35,3 +35,4 @@ If you are one of those people who are new to rainmeter and don't know how to fi
 * Trinity
   * Library Committee
     * Kozeki Ui (Base)
+    * Endo Shimiko (Base)
