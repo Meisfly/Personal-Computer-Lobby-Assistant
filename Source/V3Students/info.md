@@ -1,0 +1,3 @@
+Version 3 of the code, though not much changed, I did made it so that instead of the dialogue momentarily fading every time it loads and unloads, it would just...not fade, this however made it so that you would barely see (about 150 milliseconds to be exact) that the text box right next to the student would appear behind said student before appearing in the front, though I think its obvious on which one is more noticable than the other, don't you think?
+
+also, I may consider making them more lively by giving them little movements across your screen, like their character shaking when flustered and stuff, IF rainmeter has some plugin or bang that lets !move do smooth movement rather than just teleporting an object from one part of the screen to the other.
