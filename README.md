@@ -36,3 +36,5 @@ If you are one of those people who are new to rainmeter and don't know how to fi
   * Library Committee
     * Kozeki Ui (Base)
     * Endo Shimiko (Base)
+  * Justice Task Force/Justice Realization Committee
+    * Kenzaki Tsurugi (Base)
