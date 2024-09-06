@@ -38,3 +38,4 @@ If you are one of those people who are new to rainmeter and don't know how to fi
     * Endo Shimiko (Base)
   * Justice Task Force/Justice Realization Committee
     * Kenzaki Tsurugi (Base)
+    * Hanekawa Hasumi (Base)
